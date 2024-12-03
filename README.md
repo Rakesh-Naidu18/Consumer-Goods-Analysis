@@ -1,30 +1,45 @@
+Consumer Goods Data Analytics Project
+
+
+
+
 Project Overview
-This repository houses the SQL queries and code used during the Consumer Goods module of the Data Analytics Bootcamp by Codebasics. The project focuses on analyzing data from the consumer goods domain, specifically for AtliQ Hardwares, a global leader in hardware products like PCs, printers, mice, and computers. The primary objective is to address 10 ad hoc business requests using SQL.
+This project is part of the Consumer Goods module from the Data Analytics Bootcamp by Codebasics. It focuses on analyzing data for AtliQ Hardwares, a leading global hardware company specializing in PCs, printers, mice, and computers. The objective is to address 10 ad hoc business requests using SQL queries and present the findings effectively.
 
 Project Structure
-SQL Files
-
-Contains SQL scripts addressing each of the 10 ad hoc requests.
-These queries are crafted to extract, transform, and analyze data to provide actionable insights.
-Project Presentation Files
-
-Includes a professionally designed presentation created using Canva to summarize the project, insights, and approach effectively.
+1. SQL Files
+Contains SQL scripts for each of the 10 ad hoc business requests.
+Queries are designed to:
+Extract relevant data.
+Transform raw data into actionable insights.
+2. Project Presentation
+A professional presentation was created using Canva to summarize:
+The project’s objectives.
+Insights derived from the data.
+The overall approach and methodology.
 Skills Gained
-Writing SQL queries using advanced techniques:
-Common Table Expressions (CTEs)
-Ranking Functions (e.g., RANK, DENSE_RANK)
-Joins (inner, outer, cross, etc.)
-Date and Numeric Functions
-Sub-queries
-Extracting and transforming raw data into meaningful formats.
-Analyzing and interpreting data for informed decision-making.
+SQL Techniques:
+Common Table Expressions (CTEs).
+Ranking Functions (RANK, DENSE_RANK).
+Joins (inner, outer, cross).
+Date and Numeric Functions.
+Sub-queries.
+Data Analysis:
+Extracting and transforming raw data.
+Interpreting data for decision-making.
+Reporting:
 Generating comprehensive reports.
-Designing professional, visually engaging presentations using Canva.
-Enhancing problem-solving and decision-making abilities.
-This project showcases the practical application of SQL to solve real-world business problems in the consumer goods domain while effectively presenting insights using Canva.
+Designing visually engaging presentations using Canva.
+Soft Skills:
+Problem-solving and decision-making.
+Tools Used
+SQL (Query Writing, Data Extraction, Analysis).
+Canva (Presentation Design).
+PowerPoint (Report Automation).
+Insights
+This project highlights the practical application of SQL to solve real-world business challenges in the consumer goods domain. It demonstrates both technical and communication skills, showcasing the ability to analyze data and present findings effectively.
 
-
-
-
-
-
+How to Use This Repository
+Clone the repository.
+Navigate to the SQL Files folder to review or execute the queries.
+Open the Project Presentation folder to view the final presentation designed with Canva.
